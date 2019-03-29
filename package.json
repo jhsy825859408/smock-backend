@@ -1,0 +1,45 @@
+{
+  "name": "backend-system",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd": "^3.4.3",
+    "axios": "^0.18.0",
+    "draftjs-to-html": "^0.8.4",
+    "echarts": "^4.1.0",
+    "echarts-for-react": "^2.0.15-beta.0",
+    "jsonp": "^0.2.1",
+    "moment": "^2.24.0",
+    "postcss-loader": "2.0.8",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "react-draft-wysiwyg": "^1.13.2",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "2.1.8",
+    "redux": "3.7.2"
+  },
+  "devDependencies": {
+    "babel-plugin-import": "^1.11.0",
+    "less": "^2.7.3",
+    "less-loader": "^4.1.0",
+    "postcss-flexbugs-fixes": "^4.1.0",
+    "redux-devtools-extension": "^2.13.8",
+    "react-app-rewired": "^2.1.1"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
